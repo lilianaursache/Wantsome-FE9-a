@@ -1,2 +1,4 @@
 Remember Git
 Fac o modificare când sunt pe branch-ul branch_7apr.
+Modificare adusa in branch_nou.
+
